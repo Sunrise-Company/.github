@@ -10,3 +10,9 @@
 - [educational-skillpath](https://github.com/Sunrise-Company/educational-skillpath)
 - [admin.educational-skillpath](https://github.com/Sunrise-Company/admin.educational-skillpath)
 - [backend.educational-skillpath](https://github.com/Sunrise-Company/backend.educational-skillpath)
+
+# My HomeStyle
+
+- [my-homestyle](https://github.com/Sunrise-Company/my-homestyle)
+- [admin.my-homestyle](https://github.com/Sunrise-Company/admin.my-homestyle)
+- [backend.my-homestyle](https://github.com/Sunrise-Company/backend.my-homestyle)

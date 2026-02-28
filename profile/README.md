@@ -5,7 +5,7 @@
 - [backend.daleeli-sy](https://github.com/Sunrise-Company/backend.daleeli-sy)
 - [mobile.daleeli-sy](https://github.com/Sunrise-Company/mobile.daleeli-sy)
 
-# Educational Skillpath
+# Daliluna
 
 - [daliluna](https://github.com/Sunrise-Company/daliluna.com)
 - [admin.daliluna](https://github.com/Sunrise-Company/admin.daliluna.com)

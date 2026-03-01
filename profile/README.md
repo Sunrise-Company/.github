@@ -11,6 +11,12 @@
 - [admin.daliluna](https://github.com/Sunrise-Company/admin.daliluna.com)
 - [backend.daliluna](https://github.com/Sunrise-Company/backend.daliluna.com)
 
+# Skillpath USA Group
+
+- [skillpath-usa-group](https://github.com/Sunrise-Company/skillpath-usa-group)
+- [admin.skillpath-usa-group](https://github.com/Sunrise-Company/admin.skillpath-usa-group)
+- [backend.skillpath-usa-group](https://github.com/Sunrise-Company/backend.skillpath-usa-group)
+
 # Educational Skillpath
 
 - [educational-skillpath](https://github.com/Sunrise-Company/educational-skillpath)

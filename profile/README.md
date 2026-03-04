@@ -34,3 +34,8 @@
 
 - [mobile.losgo](https://github.com/Sunrise-Company/mobile.losgo)
 - [backend.losgo](https://github.com/Sunrise-Company/backend.losgo)
+
+
+# SmartSchool
+
+- [mobile.smartschool](https://github.com/Sunrise-Company/mobile.smartschool)

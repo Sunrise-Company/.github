@@ -36,6 +36,11 @@
 - [backend.losgo](https://github.com/Sunrise-Company/backend.losgo)
 
 
-# SmartSchool
+# Smar tSchool
 
 - [mobile.smartschool](https://github.com/Sunrise-Company/mobile.smartschool)
+
+
+# Qyam School
+
+- [mobile.qyam](https://github.com/Sunrise-Company/mobile.qyam)

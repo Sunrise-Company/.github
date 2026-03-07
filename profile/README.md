@@ -44,3 +44,7 @@
 # Qyam School
 
 - [mobile.qyam](https://github.com/Sunrise-Company/mobile.qyam)
+
+# Trusted Academy
+
+- [mobile.trusted_academy](https://github.com/Sunrise-Company/mobile.trusted_academy)

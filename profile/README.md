@@ -57,3 +57,7 @@
 
 - [mobile.Mancoms](https://github.com/Sunrise-Company/mobile.mancoms)
 
+# Manara school
+
+- [mobile.manara_school](https://github.com/Sunrise-Company/mobile.manara_school)
+

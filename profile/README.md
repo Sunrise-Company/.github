@@ -61,3 +61,7 @@
 
 - [mobile.manara_school](https://github.com/Sunrise-Company/mobile.manara_school)
 
+# Lawers
+
+- [mobile.lawyers](https://github.com/Sunrise-Company/mobile.lawyers)
+

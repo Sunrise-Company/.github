@@ -48,3 +48,8 @@
 # Trusted Academy
 
 - [mobile.trusted_academy](https://github.com/Sunrise-Company/mobile.trusted_academy)
+
+# Modern Syrian School
+
+- [mobile.Modern_syrian_school](https://github.com/Sunrise-Company/mobile.modern_syrian_school)
+

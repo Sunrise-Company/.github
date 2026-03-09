@@ -53,20 +53,32 @@
 
 - [mobile.Modern_syrian_school](https://github.com/Sunrise-Company/mobile.modern_syrian_school)
 
+
 # Mancoms
 
 - [mobile.Mancoms](https://github.com/Sunrise-Company/mobile.mancoms)
 
+
 # Manara school
 
 - [mobile.manara_school](https://github.com/Sunrise-Company/mobile.manara_school)
+
 
 # Albayan School
 
 - [mobile.albayanSchool](https://github.com/Sunrise-Company/mobile.albayanschool)
 
 
+# Arabic Academic 
+
+- [mobile.albayanSchool](https://github.com/Sunrise-Company/mobile.arabicacademic)
+
+
 # Lawers
 
 - [mobile.lawyers](https://github.com/Sunrise-Company/mobile.lawyers)
 
+
+# Daliluna altaalimi
+
+- [mobile.daliluna-altaalimi](https://github.com/BayanMansour01/mobile.daliluna_altaalimi)

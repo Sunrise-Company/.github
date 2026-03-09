@@ -61,6 +61,11 @@
 
 - [mobile.manara_school](https://github.com/Sunrise-Company/mobile.manara_school)
 
+# Albayan School
+
+- [mobile.albayanSchool](https://github.com/Sunrise-Company/mobile.albayanschool)
+
+
 # Lawers
 
 - [mobile.lawyers](https://github.com/Sunrise-Company/mobile.lawyers)

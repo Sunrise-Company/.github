@@ -74,11 +74,6 @@
 - [mobile.albayanSchool](https://github.com/Sunrise-Company/mobile.arabicacademic)
 
 
-# Lawers
-
-- [mobile.lawyers](https://github.com/Sunrise-Company/mobile.lawyers)
-
-
 # Daliluna altaalimi
 
 - [mobile.daliluna-altaalimi](https://github.com/Sunrise-Company/mobile.daliluna_altaalimi)
@@ -95,6 +90,11 @@
 
 - [mobile.daleileyellowpages](https://github.com/Sunrise-Company/mobile.daleileyellowpages)
 
+# Lawers
+
+- [mobile.lawyers](https://github.com/Sunrise-Company/mobile.lawyers)
+
+
  # Daleelie
 
 - [mobile.daleelie](https://github.com/Sunrise-Company/mobile.daleelie)
@@ -106,4 +106,8 @@
  # Atlb Yalla
 
 - [mobile.atlbyalla](https://github.com/Sunrise-Company/mobile.atlbyalla)
+ 
+  # Daliluna
+
+- [mobile.daliluna](https://github.com/Sunrise-Company/mobile.daliluna)
  

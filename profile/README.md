@@ -34,6 +34,7 @@
 
 - [mobile.losgo](https://github.com/Sunrise-Company/mobile.losgo)
 - [backend.losgo](https://github.com/Sunrise-Company/backend.losgo)
+- [admin.losgo](https://github.com/Sunrise-Company/losgo-dashboard)
 
 
 # Smar tSchool

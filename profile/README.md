@@ -72,7 +72,7 @@
 
 # Arabic Academic 
 
-- [mobile.albayanSchool](https://github.com/Sunrise-Company/mobile.arabicacademic)
+- [mobile.acabicacademic](https://github.com/Sunrise-Company/mobile.arabicacademic)
 
 
 # Daliluna altaalimi

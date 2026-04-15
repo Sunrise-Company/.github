@@ -131,3 +131,7 @@
 
 - [backend.taxi-syria](https://github.com/Sunrise-Company/backend.taxi-syria)
 
+# Dr. Mira Dashboard
+
+- [admin.dr-mira](https://github.com/Sunrise-Company/New-Dr.-Mira-Dashboard)
+

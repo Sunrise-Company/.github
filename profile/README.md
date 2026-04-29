@@ -135,3 +135,7 @@
 
 - [admin.dr-mira](https://github.com/Sunrise-Company/New-Dr.-Mira-Dashboard)
 - [backend.dr-mira](https://github.com/Sunrise-Company/Backend.Dr-Mira)
+
+- # Resturant Templates
+
+- [resturant.template](https://github.com/Sunrise-Company/resturant-template/blob/main/README.md)

@@ -138,4 +138,5 @@
 
 - # Resturant Templates
 
-- [resturant.template](https://github.com/Sunrise-Company/resturant-template)
+- [resturant-template](https://github.com/Sunrise-Company/resturant-template)
+- [resturant-dashboard-template](https://github.com/Sunrise-Company/resturant-dashboard-template)

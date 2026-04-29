@@ -138,4 +138,4 @@
 
 - # Resturant Templates
 
-- [resturant.template](https://github.com/Sunrise-Company/resturant-template/blob/main/README.md)
+- [resturant.template](https://github.com/Sunrise-Company/resturant-template)

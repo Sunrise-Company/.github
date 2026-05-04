@@ -130,6 +130,7 @@
 # Taxi Syria
 
 - [backend.taxi-syria](https://github.com/Sunrise-Company/backend.taxi-syria)
+- [taxi-syria-dashboard](https://github.com/Sunrise-Company/Syria-Taxi-Dashboard)
 
 # Dr. Mira Clinic
 

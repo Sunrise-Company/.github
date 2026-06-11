@@ -156,5 +156,5 @@
 
 - [Qatranji-App](https://github.com/Sunrise-Company/Qatranji-Frontend)
 - [Qatranji-Backend](https://github.com/Sunrise-Company/Qatranji-Backend)
-
+- [Qatranji-Dashboard](https://github.com/Sunrise-Company/Qatranji-Dashboard)
 

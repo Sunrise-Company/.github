@@ -158,3 +158,7 @@
 - [Qatranji-Backend](https://github.com/Sunrise-Company/Qatranji-Backend)
 - [Qatranji-Dashboard](https://github.com/Sunrise-Company/Qatranji-Dashboard)
 
+# Thalgeh Medical Group
+
+-[Thalgeh-Medical-Group](https://github.com/Sunrise-Company/Medical-Devices-Provider)
+

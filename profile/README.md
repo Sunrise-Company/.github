@@ -162,3 +162,8 @@
 
 -[Thalgeh-Medical-Group](https://github.com/Sunrise-Company/Medical-Devices-Provider)
 
+# New Mancoms
+
+- [New-Mancoms-Backend](https://github.com/Sunrise-Company/backend.new-mancoms)
+- [New-Mancoms-Mobile](https://github.com/Sunrise-Company/backend.new-mancoms)
+

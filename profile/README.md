@@ -160,7 +160,7 @@
 
 # Thalgeh Medical Group
 
-- [Thalgeh-Medical-Group](https://github.com/Sunrise-Company/Medical-Devices-Provider)
+- [Thalgeh-Medical-Group](https://github.com/Sunrise-Company/Thalgeh-Medical-Group)
 - [Thalgeh-Medical-Group-dashboard](https://github.com/Sunrise-Company/Thalgeh-Medical-Group-dashboard)
 - [Thalgeh-Medical-Group-Backend](https://github.com/Sunrise-Company/Thalgeh-Medical-Group-Backend)
 

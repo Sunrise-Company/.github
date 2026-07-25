@@ -173,3 +173,9 @@
 
 - [Rasad-Platform](https://github.com/Sunrise-Company/Rasad-Platform)
 - [Rasad-Dashboard](https://github.com/Sunrise-Company/Rasad-Dashboard)
+
+
+# AlObaid Clinic 
+
+- [backend.alobaid-clinic](https://github.com/Sunrise-Company/alobaid-clinic)
+

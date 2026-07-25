@@ -175,7 +175,7 @@
 - [Rasad-Dashboard](https://github.com/Sunrise-Company/Rasad-Dashboard)
 
 
-# AlObaid Clinic 
+# Dr. Obaid Clinic 
 
 - [backend.alobaid-clinic](https://github.com/Sunrise-Company/alobaid-clinic)
-
+- [Dr-Obaid-Clinic-Dashboard](https://github.com/Sunrise-Company/Dr-Obaid-Clinic-Dashboard)

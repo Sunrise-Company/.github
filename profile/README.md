@@ -179,3 +179,9 @@
 
 - [backend.alobaid-clinic](https://github.com/Sunrise-Company/alobaid-clinic)
 - [Dr-Obaid-Clinic-Dashboard](https://github.com/Sunrise-Company/Dr-Obaid-Clinic-Dashboard)
+
+
+# أجيال الذكية
+
+- [smart.ajyal](https://github.com/Sunrise-Company/smart-ajyal-school.git)
+

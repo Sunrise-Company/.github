@@ -146,9 +146,10 @@
 - [Businesses-Managment-Backend](https://github.com/Sunrise-Company/Businesses-Managment-Backend)
 - [Businesses-Managment-Dashboard](https://github.com/Sunrise-Company/Businesses-Managment-Dashboard)
 
-# My Sunrise IT
+# Sunrise-IT
 
-- [mysunrise-it](https://github.com/Sunrise-Company/mysunrise-it)
+- [Old-Sunrise-II](https://github.com/Sunrise-Company/mysunrise-it)
+- [New-Sunrise-IT](https://github.com/Sunrise-Company/New-Sunrise-IT)
 - [admin.mysunrise-it](https://github.com/Sunrise-Company/admin.mysunrise-it)
 - [backend.mysunrise-it](https://github.com/Sunrise-Company/backend.mysunrise-it)
 

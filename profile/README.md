@@ -198,4 +198,7 @@
 - [Backed-Transactions-System](https://github.com/Sunrise-Company/backed.accounting-system.git)
 - [Transactions-System](https://github.com/Sunrise-Company/Accounting-System)
 
-# Supermarket-Sanagement-System
+# Supermarket management System
+
+- [backend.supermarket-management-system](https://github.com/Sunrise-Company/backend.supermarket-management-system)
+- [supermarket-management-system](https://github.com/Sunrise-Company/Supermarket-Sanagement-System)

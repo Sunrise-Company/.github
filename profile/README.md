@@ -203,4 +203,5 @@
 - [backend.supermarket-management-system](https://github.com/Sunrise-Company/backend.supermarket-management-system)
 - [supermarket-management-system](https://github.com/Sunrise-Company/Supermarket-Sanagement-System)
 
-# Arabic-Academy
+# Arabic academy
+- [/Arabic-Academy](https://github.com/Sunrise-Company/Arabic-Academy)

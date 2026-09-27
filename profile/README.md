@@ -75,6 +75,8 @@
 # Arabic Academic 
 
 - [mobile.acabicacademic](https://github.com/Sunrise-Company/mobile.arabicacademic)
+- [backend.arabic-Academy](https://github.com/Sunrise-Company/Arabic-Academy)
+
 
 
 # Daliluna altaalimi
@@ -203,5 +205,3 @@
 - [backend.supermarket-management-system](https://github.com/Sunrise-Company/backend.supermarket-management-system)
 - [supermarket-management-system](https://github.com/Sunrise-Company/Supermarket-Sanagement-System)
 
-# Arabic academy
-- [/Arabic-Academy](https://github.com/Sunrise-Company/Arabic-Academy)

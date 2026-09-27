@@ -205,3 +205,8 @@
 - [backend.supermarket-management-system](https://github.com/Sunrise-Company/backend.supermarket-management-system)
 - [supermarket-management-system](https://github.com/Sunrise-Company/Supermarket-Sanagement-System)
 
+# Alfajr institute
+
+- [backend.alfajr-institute](https://github.com/Sunrise-Company/Al-Fajr-Institute)
+- [mobile.alfajr-institute](https://github.com/Sunrise-Company/Al-Fajr-Institute)
+

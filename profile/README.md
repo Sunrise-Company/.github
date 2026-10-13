@@ -212,4 +212,5 @@
 
 # Pfeffer&Partner
 
-- [backend.Pfeffer&Partner](https://github.com/Sunrise-Company/backed.Pfeffer-Partner)
+- [Backend-Pfeffer&Partner](https://github.com/Sunrise-Company/backed.Pfeffer-Partner)
+- [Pfeffer-Partner-Dashboard](https://github.com/Sunrise-Company/Pfeffer-Partner-Dashboard)

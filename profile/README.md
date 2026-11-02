@@ -220,3 +220,4 @@
 
 - [Sama-Food-Website](https://github.com/Sunrise-Company/Sama-Food-Website)
 - [Sama-Food-Backend](https://github.com/Sunrise-Company/Sama-Food-Backend)
+- [Sama-Food-Dashboard](https://github.com/Sunrise-Company/Sama-Food-Dashboard)
